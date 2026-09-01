@@ -1,0 +1,17 @@
+{
+  "name": "intern-me-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Collect and normalize candidate SIWES company leads from Google Places.",
+  "type": "module",
+  "scripts": {
+    "search": "node src/search-places.js",
+    "install-browser": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

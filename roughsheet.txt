@@ -1,0 +1,591 @@
+Yeah. If we completely forget your own background and just look at **a Nigerian 400-level engineering student who has just finished exams and is entering the SIWES/internship hunt**, there is actually a pretty large set of problems around this period.
+
+I’d break it into the **entire internship journey**, not just “find a company.”
+
+### 1. Finding internship opportunities
+
+This is probably the most obvious problem.
+
+A student needs:
+
+* Companies currently accepting SIWES students
+* Companies that accept **engineering students specifically**
+* Opportunities filtered by discipline — Electrical, Mechanical, Systems, Civil, Chemical, etc.
+* Opportunities filtered by location — Lagos, Abuja, Ibadan, Port Harcourt, remote, etc.
+* Companies that accept **SIWES specifically**, rather than only graduate internships
+* Application deadlines
+* Internship duration
+* Stipend information
+* Whether accommodation is provided
+* Whether transportation is provided
+* Contact/application link
+* Whether the company has accepted students from their school before
+* Whether the company is actually legitimate
+* Information about smaller companies that don't advertise publicly
+
+And importantly:
+
+**A lot of students don't even know where to look.**
+
+They hear:
+
+> "GTBank is taking interns."
+
+But they don't have a systematic way to discover the 50 other companies that might be suitable.
+
+---
+
+### 2. Knowing *what kind* of company to apply to
+
+There's another problem underneath opportunity discovery.
+
+A 400-level student might ask:
+
+> "I'm studying Systems Engineering. Where am I even supposed to intern?"
+
+They need help identifying:
+
+* Industries relevant to their discipline
+* Companies relevant to their career interests
+* Roles they could realistically apply for
+* Companies where they can actually learn something
+* Companies that would look good on their CV
+* Companies that are likely to give them actual engineering work rather than just administrative tasks
+
+For example, someone might not know that their engineering degree could map into:
+
+**Software → AI/ML → Embedded → Automation → Robotics → Telecoms → Control → Manufacturing → Energy → Fintech → Infrastructure**, etc.
+
+So opportunity discovery is also **career discovery**.
+
+---
+
+### 3. CV / Resume
+
+Huge one.
+
+Many students will have:
+
+* No CV
+* A terrible CV
+* A CV made from a random Canva template
+* A CV that's 3 pages long
+* A CV with irrelevant information
+* No measurable achievements
+* Projects poorly described
+* No GitHub/portfolio
+* No idea how to tailor the CV to a particular company
+
+They need help with:
+
+* Creating their first professional CV
+* Engineering-specific CV structure
+* ATS-friendly formatting
+* Writing project descriptions
+* Writing experience sections when they have no experience
+* Quantifying achievements
+* Choosing what to remove
+* Tailoring CVs to different roles
+* Reviewing/scoring their CV
+
+---
+
+### 4. Application letters / cover letters
+
+Particularly in Nigeria, students may be asked for:
+
+* Application letter
+* Cover letter
+* SIWES request letter
+* Introduction letter
+* Statement of purpose
+* Motivation letter
+
+And many don't know the difference.
+
+They need templates **and, more importantly, personalization**.
+
+---
+
+### 5. School documentation
+
+This is a completely separate category.
+
+They may need:
+
+* SIWES letter
+* School introduction letter
+* SIWES forms
+* Acceptance letter
+* Logbook
+* Medical/fitness documentation
+* Passport photographs
+* Student ID
+* School ID/reference details
+* Placement approval
+* Company acceptance documentation
+
+And they need to know:
+
+**"Which document do I give the company, and which one do I return to school?"**
+
+That's surprisingly confusing for students.
+
+---
+
+### 6. Applying to many companies efficiently
+
+Suppose someone wants to apply to 40 companies.
+
+They need somewhere to track:
+
+| Company | Role | Applied | Date | Response | Interview | Result |
+| ------- | ---- | ------- | ---- | -------- | --------- | ------ |
+
+Otherwise you get:
+
+> "Wait, did I already apply to this company?"
+
+They need:
+
+* Application tracker
+* Deadline reminders
+* Follow-up reminders
+* Status tracking
+* Saved applications
+* Saved job descriptions
+* Contact tracking
+
+This becomes particularly valuable when applying to 20–50 places.
+
+---
+
+### 7. Finding the right contact person
+
+This is underrated.
+
+Sometimes there isn't a public internship application page.
+
+A student needs to figure out:
+
+> "Who exactly do I contact?"
+
+Potentially:
+
+* HR
+* Recruitment team
+* Engineering manager
+* CTO
+* Operations manager
+* Company founder
+* Alumni working there
+
+And then:
+
+**How do I approach them without sounding desperate or unserious?**
+
+---
+
+### 8. Cold emailing / cold messaging
+
+Another huge pain point.
+
+Students need to know:
+
+* Who to message
+* What to say
+* How long the message should be
+* What to attach
+* Whether to use LinkedIn, email, WhatsApp, etc.
+* When to follow up
+* How many times to follow up
+* What to say if they don't respond
+
+Especially for smaller Nigerian companies.
+
+---
+
+### 9. Networking
+
+Many students have basically no professional network.
+
+They need help finding:
+
+* Alumni
+* Senior students
+* Previous SIWES students
+* Engineers in their field
+* Recruiters
+* Founders
+* HR professionals
+
+And knowing:
+
+**"How do I actually start a conversation with this person?"**
+
+---
+
+### 10. Interview preparation
+
+Once applications start working, another problem appears.
+
+Students suddenly get:
+
+> "You're invited for an interview."
+
+And panic.
+
+They need:
+
+* Common internship interview questions
+* HR questions
+* Technical questions
+* Engineering-specific questions
+* "Tell me about yourself"
+* "Why should we hire you?"
+* "Why this company?"
+* Project questions
+* Behavioral questions
+* Mock interviews
+* Interview feedback
+
+---
+
+### 11. Technical preparation
+
+Depending on the discipline:
+
+* Coding tests
+* Aptitude tests
+* Engineering fundamentals
+* MATLAB
+* CAD
+* Electronics
+* Control systems
+* Circuit analysis
+* Mechanics
+* Thermodynamics
+* Data structures
+* Python
+* SQL
+* etc.
+
+Basically:
+
+**"What could this company test me on?"**
+
+---
+
+### 12. Aptitude tests
+
+This deserves its own category because Nigerian companies love them.
+
+Students may need preparation for:
+
+* Numerical reasoning
+* Verbal reasoning
+* Logical reasoning
+* Abstract reasoning
+* Engineering aptitude
+* Time-pressure tests
+
+And practice questions.
+
+---
+
+### 13. Choosing between offers
+
+Imagine someone gets:
+
+**Company A:** ₦80k, prestigious, boring work
+**Company B:** ₦30k, unknown company, actually builds interesting engineering systems
+**Company C:** unpaid, but very strong mentorship
+
+Which one should they take?
+
+Students need help evaluating:
+
+* Learning opportunities
+* Mentorship
+* Company reputation
+* Stipend
+* Location
+* Transportation
+* Accommodation
+* Work environment
+* Actual engineering exposure
+* CV value
+* Networking opportunities
+
+---
+
+### 14. Accommodation and transportation
+
+This is particularly Nigerian.
+
+A student gets:
+
+> "You've been accepted in Lekki."
+
+Then realizes:
+
+> "I live in Yaba."
+
+😭
+
+They need to figure out:
+
+* Where to stay
+* How much accommodation costs
+* Transportation options
+* Daily transport cost
+* Distance
+* Traffic
+* Whether the company provides accommodation
+* Whether previous interns found accommodation nearby
+
+For students moving from another state, this becomes even bigger.
+
+---
+
+### 15. Financial planning
+
+Students need to know:
+
+**"Can I actually afford this internship?"**
+
+Potential costs:
+
+* Transport
+* Accommodation
+* Feeding
+* Work clothes
+* Internet/data
+* Relocation
+* Documents
+* Medical requirements
+
+Sometimes the "₦50k stipend" internship is actually costing them ₦100k/month to attend.
+
+---
+
+### 16. Professional preparation
+
+They've never worked in an actual organization before.
+
+They need to learn:
+
+* Workplace etiquette
+* Email etiquette
+* How to talk to managers
+* How to behave in meetings
+* How to ask questions
+* How to report progress
+* How to use Slack/Teams/etc.
+* How to document work
+* How to communicate professionally
+* How to deal with difficult supervisors
+* How to ask for feedback
+
+---
+
+### 17. What to learn *before* resumption
+
+This is another big one.
+
+A student might know:
+
+> "I'm starting at an engineering company in September."
+
+But:
+
+> "What should I learn before I get there?"
+
+They need a **pre-SIWES preparation roadmap** based on their discipline/role.
+
+For example:
+
+**Software intern →** Git, Python/JS, APIs, SQL, debugging
+**Electrical →** MATLAB, circuit analysis, instrumentation, etc.
+**Mechanical →** CAD, manufacturing, simulation, etc.
+
+---
+
+### 18. Setting goals for the internship
+
+Most students just think:
+
+> "I need to complete my SIWES."
+
+But ideally they should enter with goals:
+
+* Skills to acquire
+* Projects to complete
+* People to meet
+* Technologies to learn
+* Portfolio pieces to create
+* Certifications to obtain
+* Things to document
+
+Otherwise six months can disappear and all they have is:
+
+> "I worked at XYZ Ltd."
+
+---
+
+### 19. SIWES logbook
+
+This is its own headache.
+
+Students need help understanding:
+
+* What they're supposed to record
+* How often
+* How to describe activities professionally
+* What technical details to include
+* How to avoid writing useless entries like "I resumed work and went home"
+* How to structure weekly reports
+
+---
+
+### 20. SIWES report
+
+At the end:
+
+**"Now write a 40-page report about everything you did."**
+
+Students need help with:
+
+* Report structure
+* Chapters
+* Technical writing
+* Diagrams
+* Figures
+* References
+* Formatting
+* Presentation
+* Defense preparation
+
+---
+
+### 21. Internship defense
+
+Eventually:
+
+> "Come and defend your SIWES."
+
+Now they need:
+
+* Presentation structure
+* Slide design
+* What to talk about
+* Questions they might be asked
+* How to explain their project
+* How to explain things they didn't personally build
+* Mock defense
+
+---
+
+### 22. Turning the internship into career capital
+
+This is where I think there's a **massive missed opportunity**.
+
+The internship shouldn't just end with:
+
+> "SIWES completed."
+
+Students should be helped to turn it into:
+
+**Experience → Projects → Portfolio → CV → LinkedIn → References → Future job opportunities**
+
+For example:
+
+> "During my internship, I automated X and reduced processing time by Y%."
+
+That's dramatically more valuable than:
+
+> "Intern at XYZ."
+
+---
+
+### 23. Getting a return offer / future opportunity
+
+Students should also think:
+
+> "How do I make this company want me back?"
+
+They need advice around:
+
+* Building relationships
+* Finding mentors
+* Doing excellent work
+* Asking for feedback
+* Asking about future opportunities
+* Getting a recommendation
+* Getting a reference
+* Staying in touch after SIWES
+* Potential graduate roles
+
+---
+
+# So if I zoom out...
+
+The student's actual journey looks something like:
+
+**"I need SIWES."**
+
+↓
+**Where can I go?**
+
+↓
+**Which companies are suitable for me?**
+
+↓
+**How do I apply?**
+
+↓
+**How do I make my CV?**
+
+↓
+**What documents do I need?**
+
+↓
+**Who do I contact?**
+
+↓
+**How do I get an interview?**
+
+↓
+**How do I pass it?**
+
+↓
+**Which offer should I accept?**
+
+↓
+**How do I afford getting there?**
+
+↓
+**What do I learn before starting?**
+
+↓
+**How do I survive the workplace?**
+
+↓
+**How do I document my SIWES?**
+
+↓
+**How do I write my report?**
+
+↓
+**How do I defend it?**
+
+↓
+**How do I turn those six months into something useful for my career?**
+
+And that's actually a **pretty interesting product/problem space**.
+
+The important thing is that I wouldn't immediately build "a platform for internships." That's too generic.
+
+There are several potentially interesting products hidden inside this whole journey — **opportunity discovery, application management, student-company matching, SIWES documentation, internship preparation, or the entire end-to-end SIWES journey.**
+
+If we're brainstorming from scratch, I'd actually explore those separately before deciding which problem is painful enough to build around.
