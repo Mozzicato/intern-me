@@ -1,4 +1,10 @@
 [
+  { "query": "PalmPay Nigeria headquarters", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Fintech & Banking" },
+  { "query": "Zenith Bank headquarters", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Fintech & Banking" },
+  { "query": "Dangote Industries headquarters", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Manufacturing" },
+  { "query": "NNPC Limited office", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Energy & Power" },
+  { "query": "Nord Nigeria technology company", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Software & Product" },
+  { "query": "major Nigerian companies headquarters", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Corporate & Professional Services" },
   { "query": "automation and control systems companies", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Automation & Control" },
   { "query": "embedded systems and IoT companies", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Embedded & IoT" },
   { "query": "software engineering companies", "region": "Lagos, Nigeria", "state": "Lagos", "industry": "Software & Product" },
